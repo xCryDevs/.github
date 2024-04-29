@@ -8,4 +8,3 @@
 > Equipo de programadores comprometidos actualmente al desarrollo de los bots. No incluimos ex-programadores ni personas que hayan aportado al proyecto de manera esporádica o emergente.
 
 - [kzred](https://twitter.com/kredmp) - Programador Principal
-- [rbzzz_](https://discord.com/users/1102012338409853029) - Programador Secundario
